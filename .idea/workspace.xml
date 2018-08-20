@@ -2,63 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f4486e-ed64-4ff5-ada1-38d25ee45694" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/chromedriver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/bin/phantomjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/ChangeLog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/LICENSE.BSD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/arguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/child_process-examples.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/colorwheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/countdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/detectsniff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/echoToFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/features.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/fibo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/injectme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/loadspeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/loadurlwithoutcss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/netlog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/netsniff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/openurlwithproxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/outputEncoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/page_events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/pagecallback.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/phantomwebintro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/postjson.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/postserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/printenv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/printheaderfooter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/printmargins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/rasterize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/render_multi_url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/responsive-screenshot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/run-jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/run-jasmine2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/run-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/scandir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/serverkeepalive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/simpleserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/sleepsort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/stdin-stdout-stderr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/universe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/unrandomize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/useragent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/waitfor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/examples/walk_through_frames.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phatomjs/third-party.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weibo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weibo/fetch_weibo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weibo/ims.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weibo/login.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weibo/users.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weibo/users.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/fetch_weibo.py" afterPath="$PROJECT_DIR$/weibo/fetch_weibo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/login.py" afterPath="$PROJECT_DIR$/weibo/login.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,32 +23,10 @@
       <file leaf-file-name="fetch_weibo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/weibo/fetch_weibo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="130" column="26" lean-forward="true" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
+            <state relative-caret-position="378">
+              <caret line="48" column="11" lean-forward="true" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
               <folding>
                 <element signature="e#17#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="0" column="709" lean-forward="true" selection-start-line="0" selection-start-column="709" selection-end-line="0" selection-end-column="709" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="snspider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/aimonitor/news_spider/news_spider/spiders/snspider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="109" column="61" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="61" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +45,8 @@
       <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weibo/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="142" column="22" lean-forward="false" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
+            <state relative-caret-position="544">
+              <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
               <folding>
                 <element signature="e#307#837#0" expanded="false" />
                 <element signature="e#865#2224#0" expanded="false" />
@@ -194,41 +119,6 @@
               <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="aimonitor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="aimonitor" type="462c0819:PsiDirectoryNode" />
-              <item name="news_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="aimonitor" type="462c0819:PsiDirectoryNode" />
-              <item name="news_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="news_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fetch-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="aimonitor" type="462c0819:PsiDirectoryNode" />
-              <item name="news_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="news_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fetch-spider" type="b2602c69:ProjectViewProjectNode" />
@@ -333,9 +223,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3711628" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3711628" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283721" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283721" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -392,20 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="142" column="22" lean-forward="false" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
-          <folding>
-            <element signature="e#307#837#0" expanded="false" />
-            <element signature="e#865#2224#0" expanded="false" />
-            <element signature="e#2275#2954#0" expanded="false" />
-            <element signature="e#2986#3671#0" expanded="false" />
-            <element signature="e#3703#4001#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weibo/text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -418,16 +294,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="109" column="61" lean-forward="false" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo/users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#307#837#0" expanded="false" />
+            <element signature="e#865#2224#0" expanded="false" />
+            <element signature="e#2275#2954#0" expanded="false" />
+            <element signature="e#2986#3671#0" expanded="false" />
+            <element signature="e#3703#4001#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/fetch_weibo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="130" column="26" lean-forward="true" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
+        <state relative-caret-position="378">
+          <caret line="48" column="11" lean-forward="true" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
           <folding>
             <element signature="e#17#32#0" expanded="true" />
           </folding>

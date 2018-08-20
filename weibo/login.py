@@ -142,14 +142,4 @@ def make_cookies(users_dict):
     browser.close()
     return cookies_lst
 
-if __name__ == '__main__':
 
-    users_dict = {
-        '15600920758': 'chenhe1993',
-        '791962385@qq.com': 'sina0624####',
-        '14575782371': 'ja684623',
-        '15874645844': 'ja684629',
-
-
-    }
-    make_cookies(users_dict)

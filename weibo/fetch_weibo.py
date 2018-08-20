@@ -16,10 +16,8 @@ class FetchWeibo(object):
 
     def __init__(self):
         self.users_dict = {
-            '15600920758': 'chenhe1993',
-            '791962385@qq.com': 'sina0624####',
-            '14575782371': 'ja684623',
-            '15874645844': 'ja684629',
+            'user1': 'passwd1',
+            'user2': 'passwd2',
         }
 
     @staticmethod
@@ -35,21 +33,8 @@ class FetchWeibo(object):
 
     def get_cookies(self):
         """获取cookies"""
-        return [
-            {'_T_WM': '8eb40d501fdd2b55f206d9a28e233ada', 'SSOLoginState': '1534754283', 'SUHB': '0oUob1h2gdjew_',
-             'SCF': 'AgyJfqg--fF4w2gfYhuZDa4jsmG_60lMVPhJu7d0d9wdS8-dw4xNNfJGrAtZXc3X_WrSsdjePL1IihDToDSVGvY.',
-             'SUB': '_2A252fg27DeRhGeNJ6lAY8yjMwjWIHXVVgJPzrDV6PUJbkdBeLVD1kW1NS-J60QjUYyScibmbPEJnFA2CwX-dmwap'},
-            {'SSOLoginState': '1534754290', 'SUHB': '0M2V6b-hqBhEg6', '_T_WM': '8eb40d501fdd2b55f206d9a28e233ada',
-             'SUB': '_2A252fg2iDeRhGeVO4lMU8yvPwjmIHXVVgJPqrDV6PUJbkdBeLUOikW1NTXO141RbBk1ITv50QtFY_OTE1DehP-7G',
-             'SCF': 'AgyJfqg--fF4w2gfYhuZDa4jsmG_60lMVPhJu7d0d9wdS8-dw4xNNfJGrAtZXc3X_WrSsdjePL1IihDToDSVGvY.'},
-            {'SSOLoginState': '1534754296', 'SUHB': '0idrv90-501i-6', '_T_WM': '8eb40d501fdd2b55f206d9a28e233ada',
-             'SUB': '_2A252fg2oDeRhGeBM41oR9SbLwj2IHXVVgJPgrDV6PUJbkdBeLWnakW1NRK0qHnIkEI8ZFw9JtzrvLo67r8eVF4RG',
-             'SCF': 'AgyJfqg--fF4w2gfYhuZDa4jsmG_60lMVPhJu7d0d9wdS8-dw4xNNfJGrAtZXc3X_WrSsdjePL1IihDToDSVGvY.'},
-            {'SSOLoginState': '1534754302', 'SUHB': '0ebt7pU50T2xjK', '_T_WM': '8eb40d501fdd2b55f206d9a28e233ada',
-             'SUB': '_2A252fg2uDeRhGeBM41UX8ifOzD2IHXVVgJPmrDV6PUJbkdBeLW3xkW1NRK4RPJK_5cRCetZ4t2iWgjrfNi-5RmtM',
-             'SCF': 'AgyJfqg--fF4w2gfYhuZDa4jsmG_60lMVPhJu7d0d9wdS8-dw4xNNfJGrAtZXc3X_WrSsdjePL1IihDToDSVGvY.'},
-        ]
-        # return make_cookies(self.users_dict)
+
+        return make_cookies(self.users_dict)
 
     def _fetch_page(self, html):
         selector = etree.HTML(html)
